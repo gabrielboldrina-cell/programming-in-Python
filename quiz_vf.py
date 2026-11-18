@@ -1,7 +1,6 @@
 import random
 import pygame
 
-# ---------- Perguntas: (texto, resposta) -> True = Verdadeiro, False = Falso ----------
 PERGUNTAS = [
     ("O Sol é uma estrela.", True),
     ("A Great Wall da China é visível a olho nu da Lua.", False),
